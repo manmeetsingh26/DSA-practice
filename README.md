@@ -13,4 +13,9 @@ This repository contains my Data Structures and Algorithms solutions and practic
 - Trees
 - Graphs
 
+- ## Completed Programs
+
+- Linear Search
+- Binary Search
+
 Author: Manmeet Singh
