@@ -13,9 +13,10 @@ This repository contains my Data Structures and Algorithms solutions and practic
 - Trees
 - Graphs
 
-- ## Completed Programs
-
+## Completed Programs
 - Linear Search
 - Binary Search
+- Bubble Sort
+- Selection Sort
 
 Author: Manmeet Singh
