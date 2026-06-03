@@ -3,6 +3,7 @@
 This repository contains my Data Structures and Algorithms solutions and practice problems.
 
 ## Topics
+
 - Arrays
 - Strings
 - Searching
@@ -15,6 +16,7 @@ This repository contains my Data Structures and Algorithms solutions and practic
 
 ## Folder Structure
 
+```text
 DSA-Practice
 │
 ├── Searching
@@ -23,24 +25,32 @@ DSA-Practice
 │
 ├── Sorting
 │   ├── BubbleSort.cpp
-│   └── SelectionSort.cpp
+│   ├── SelectionSort.cpp
+│   └── InsertionSort.cpp
 │
 └── README.md
+```
 
 ## Completed Programs
 
 ### Searching
+
 - Linear Search
 - Binary Search
 
 ### Sorting
+
 - Bubble Sort
 - Selection Sort
+- Insertion Sort
 
 ## Goals
+
 - Strengthen problem-solving skills
 - Master Data Structures and Algorithms
 - Prepare for coding interviews
 - Build a strong Computer Science foundation
 
-Author: Manmeet Singh
+## Author
+
+Manmeet Singh
