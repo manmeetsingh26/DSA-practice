@@ -20,13 +20,13 @@ This repository contains my Data Structures and Algorithms solutions and practic
 DSA-Practice
 │
 ├── Searching
-│   ├── LinearSearch.cpp
-│   └── BinarySearch.cpp
+│   ├── BinarySearch.cpp
+│   └── LinearSearch.cpp
 │
 ├── Sorting
 │   ├── BubbleSort.cpp
-│   ├── SelectionSort.cpp
-│   └── InsertionSort.cpp
+│   ├── InsertionSort.cpp
+│   └── SelectionSort.cpp
 │
 └── README.md
 ```
@@ -53,4 +53,5 @@ DSA-Practice
 
 ## Author
 
-Manmeet Singh
+Manmeet Singh  
+BCA Student at Chandigarh University
