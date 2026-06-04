@@ -1,13 +1,13 @@
 # DSA Practice
 
-This repository contains my Data Structures and Algorithms solutions and practice problems.
+This repository contains my Data Structures and Algorithms solutions and practice programs in C++.
 
 ## Topics
 
-- Arrays
-- Strings
 - Searching
 - Sorting
+- Arrays
+- Strings
 - Linked Lists
 - Stack
 - Queue
@@ -25,8 +25,9 @@ DSA-Practice
 │
 ├── Sorting
 │   ├── BubbleSort.cpp
+│   ├── SelectionSort.cpp
 │   ├── InsertionSort.cpp
-│   └── SelectionSort.cpp
+│   └── MergeSort.cpp
 │
 └── README.md
 ```
@@ -43,11 +44,33 @@ DSA-Practice
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+- Merge Sort
+
+## Algorithm Notes
+
+### Linear Search
+Checks each element one by one until the target element is found.
+
+### Binary Search
+Searches an element in a sorted array by repeatedly dividing the search range in half.
+
+### Bubble Sort
+Repeatedly compares adjacent elements and swaps them if they are in the wrong order.
+
+### Selection Sort
+Finds the minimum element and places it at the correct position in each pass.
+
+### Insertion Sort
+Builds the sorted array one element at a time by inserting elements into their correct position.
+
+### Merge Sort
+A divide and conquer algorithm that divides the array into smaller parts, sorts them, and merges them back together.
 
 ## Goals
 
 - Strengthen problem-solving skills
-- Master Data Structures and Algorithms
+- Improve understanding of Data Structures and Algorithms
+- Practice C++ programming
 - Prepare for coding interviews
 - Build a strong Computer Science foundation
 
